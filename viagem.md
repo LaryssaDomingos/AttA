@@ -8,3 +8,5 @@ Cada viagem deve possuir:
 - Data de ida
 - Data de volta
 - Preço
+
+Os campos nome, data de ida e data de volta são obrigatórios
