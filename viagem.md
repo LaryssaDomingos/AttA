@@ -10,3 +10,5 @@ Cada viagem deve possuir:
 - Preço
 
 Os campos nome, data de ida e data de volta são obrigatórios
+
+O sistema deve informar quando algum campo obrigatório estiver vazio.
